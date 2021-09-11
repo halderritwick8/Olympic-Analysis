@@ -13,5 +13,9 @@ This project deals with the analysis of Olympic data in the time range of 1896-2
 2. Data visualisation
 
 ## About Me
+I am Ritwick Halder, pursuing B.E. in Electrical Engineering (2020-2024) at Jadavpur University, Kolkata. I have a great interest in coding. I am always curious to learn and gather new topics and knowledge.
+
+## Social media platform
+Linked in : linkedin.com/in/ritwick-halder-b10639207
 
 
